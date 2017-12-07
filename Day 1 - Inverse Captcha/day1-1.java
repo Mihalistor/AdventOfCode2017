@@ -15,3 +15,4 @@ if (numberList.get(numberList.size() - 1).equals(numberList.get(0))) {
     sum += numberList.get(numberList.size() - 1);
 }
 System.out.println("SUM: " + sum);
+//RESULT IS: 1228

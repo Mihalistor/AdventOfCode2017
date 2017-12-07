@@ -11,3 +11,4 @@ while (scanner.hasNextLine()) {
     sum += (Collections.max(numbers) - Collections.min(numbers));
 }
 System.out.println("SUM: " + sum);
+//RESULT IS: 47136

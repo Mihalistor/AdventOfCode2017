@@ -17,3 +17,4 @@ while (scanner.hasNextLine()) {
     }
 }
 System.out.println("SUM: " + sum);
+//RESULT IS: 250

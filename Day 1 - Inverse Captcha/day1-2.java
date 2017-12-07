@@ -22,3 +22,4 @@ for (int i = 0; i < newNumberList.size() - jump; i++) {
     }
 }
 System.out.println("SUM: " + sum);
+//RESULT IS: 1238
